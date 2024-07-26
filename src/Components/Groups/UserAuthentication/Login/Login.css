@@ -1,0 +1,86 @@
+ /* {
+    background-image: url("../../../../../Assets/register-form-img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.login-page {
+    background-image: url("../../../../../Assets/register-form-img.jpg");
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    margin: 0;
+  }
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 400px;
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0aabea;
+    color: white;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.login-label {
+    color: #ec9407;
+}
+
+.register-navigate {
+    color: rgb(234, 61, 8);
+}
+
+.register-navigate:hover, .eye-icon:hover {
+    cursor: pointer;
+}
+
+.input-container {
+    position: relative;
+}
+
+.password-input {
+    padding-left: 30px;
+}
+
+.eye-icon {
+    position: absolute;
+    top: 50%;
+    left: 88%;
+    transform: translateY(-50%);
+}
