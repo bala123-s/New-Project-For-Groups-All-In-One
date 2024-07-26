@@ -1,0 +1,24 @@
+
+.main-title{
+    color: aquamarine;
+}
+.input-text-box-for-user input{
+    border: none;
+    border-bottom: 1px solid #1890ff;
+    outline: none;
+    display: flex;
+    align-items: center;
+    width: 28em;
+    text-align: center;
+}
+
+.todo-list{
+
+}
+
+.todo-list-user{
+    /* height: 200px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

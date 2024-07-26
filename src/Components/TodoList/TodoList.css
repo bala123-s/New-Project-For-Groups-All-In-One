@@ -1,0 +1,16 @@
+.table {
+    display: grid;
+    /* background-color: crimson; */
+}
+
+.show-details {
+    cursor: pointer;
+}
+
+.edited {
+    height: 1px;
+}
+
+.showTheNumber {
+    cursor: pointer;
+}

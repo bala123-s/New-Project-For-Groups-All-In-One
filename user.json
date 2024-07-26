@@ -1,0 +1,45 @@
+
+{
+  "users": [
+    {
+      "id": "1a5f",
+      "users": {
+        "username": "",
+        "email": "balakoti9010@gmail.com",
+        "password": "Bala@12345"
+      }
+    },
+    {
+      "id": "832e",
+      "users": {
+        "username": "balaasdsa",
+        "email": "Chejarla.Balakotaiah@acuitykp.com",
+        "password": "sad2323"
+      }
+    },
+    {
+      "id": "cf74",
+      "username": "blaaa",
+      "email": "hari@gmail.com",
+      "password": "sdcsad2323"
+    },
+    {
+      "id": "81e7",
+      "username": "bala",
+      "email": "Chejarla.Balakotaiah@acuitykp.com",
+      "password": "dfdsf23432"
+    },
+    {
+      "id": "f120",
+      "username": "",
+      "email": "hari1999@gmail.com",
+      "password": "hari@12345"
+    },
+    {
+      "id": "e274",
+      "username": "HariBabu",
+      "email": "hari1888@gmail.com",
+      "password": "hari@12345"
+    }
+  ]
+}
